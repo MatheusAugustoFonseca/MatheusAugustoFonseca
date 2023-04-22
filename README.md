@@ -4,6 +4,10 @@
 - 🔭 I’m currently looking for a full-stack/back-end position.
 - 📫 How to reach me: matheus7asf@gmail.com
 
+[Node.js-card]: https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black
+[Node.js-url]: https://nodejs.org/en
+[![Node.js][Node.js-card]][Node.js-url]
+
 <!--
 **MatheusAugustoFonseca/MatheusAugustoFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
