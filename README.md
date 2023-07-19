@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Matheus Fonseca
 ## I'm a full stack developer, welcome to my GitHub profile!
 
-- 🔭 I’m currently looking for a full-stack/back-end position.
+- 🔭 I’m currently looking for a position into tech.
 - 📫 How to reach me: matheus7asf@gmail.com
 
 ## Technology Stack :rocket:
